@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from scipy.stats import gaussian_kde
 
 
-class multiDimensionalScatterViz():
+class highDimensionalScatterViz():
 
     def __init__(self,df) -> None:
         self.df = df
