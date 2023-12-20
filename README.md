@@ -1,0 +1,1 @@
+This repo simply contains some functions that I have found useful to have on-hand for visualizing high-dimensional data. It currently contains functions to make projected scatter plot for all pairs of dimensions, and to make a blurred scatter plot.
